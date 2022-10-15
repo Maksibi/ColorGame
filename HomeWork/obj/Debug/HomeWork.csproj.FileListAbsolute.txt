@@ -1,0 +1,9 @@
+E:\repos\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+E:\repos\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+E:\repos\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+E:\repos\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+E:\repos\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.SuggestedBindingRedirects.cache
+E:\repos\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+E:\repos\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+E:\repos\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+E:\repos\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CopyComplete
